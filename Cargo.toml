@@ -3,6 +3,6 @@ name = "spyral"
 version = "0.1.0"
 edition = "2024"
 description = "Placeholder until the spyral crate is ready to be released"
-licence = "MIT"
+license = "MIT"
 
 [dependencies]
